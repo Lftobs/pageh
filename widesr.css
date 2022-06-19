@@ -17,12 +17,17 @@ header {
     margin-bottom: 55px;
     justify-content: center;
 }
-.nav img {
+.nav .img {
     width: 105px;
     height: 20px;
     margin-left: 25px;
     margin-top: 28px;
     margin-right: 50%;  
+}
+.nav img {
+    width: 105px;
+    height: 20px;
+    margin-top: 28px;
 }
 .nav button {
     margin-top: 20px;
@@ -194,8 +199,8 @@ i {
 } 
 .link-c {
     display: flex;
-    gap:170px;
-    margin-left: -150px;
+    gap:220px;
+    margin-left: 60px;
 }
 .link, .link2 {
     display: flex;
